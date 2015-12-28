@@ -1,6 +1,6 @@
-# app
+# troper-desktop
 
-> My superb app
+> Desktop version for Troper
 
 
 ## Dev
@@ -26,4 +26,4 @@ Builds the app for OS X, Linux, and Windows, using [electron-packager](https://g
 
 ## License
 
-MIT © [<%= name %>](<%= website %>)
+MIT © [bretth18](http://bretth18.me)
